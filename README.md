@@ -84,19 +84,7 @@ After activation, you should see (env) in your terminal prompt, indicating that 
 7.	Install Dependencies: With the virtual environment activated, you can now install your project dependencies using pip. Typically, you would have a requirements.txt file containing a list of dependencies. You can install them using:
 
 ```
-pip install plotly
-```
-```
-pip install flask
-```
-```
-pip install requests
-```
-```
-pip install openpyxl
-```
-```
-pip install pandas
+pip install plotly flask requests openpyxl pandas
 ```
 
 OR 
